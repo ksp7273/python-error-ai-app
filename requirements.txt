@@ -1,0 +1,5 @@
+llama-cpp-python==0.2.78
+gradio==4.44.0
+huggingface-hub==0.24.6
+torch==2.4.1  # CPU-only, no CUDA
+numpy==1.26.4  # For any array ops if needed
