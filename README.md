@@ -1,4 +1,4 @@
-# Python Error Debugger AI APPlication 
+# Python Error Debugger AI Application 
 ## Surya Prakash Karasala
 *Date: September 16, 2025*
 
@@ -222,17 +222,11 @@ flowchart LR
 
 *Placeholder: Insert PNG of above Mermaid diagram here after rendering.*
 
-## Pros and Cons
-- **Pros**:
+## Pros 
   - **Efficient**: ~300MB, runs on CPU with ~1–2GB RAM.
-  - **Multilingual**: Supports 29 languages.
   - **Cost-Effective**: Ideal for local/edge devices.
   - **Strong for Coding**: Good for error debugging.
-- **Cons**:
-  - **Limited Reasoning**: Smaller size limits complex error handling.
-  - **Hallucinations**: May give inaccurate fixes for ambiguous inputs.
-  - **Context Limit**: 2048 tokens in code (though model supports 128K).
-  - **Quantization Trade-offs**: Slight accuracy loss for speed.
+
 
 ## Conclusion
 This tool provides an efficient, accessible way to debug Python errors using a lightweight model. The provided diagrams, setup steps, and troubleshooting ensure smooth deployment.
