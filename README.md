@@ -1,6 +1,4 @@
 # Python Error Debugger AI Application 
-## Surya Prakash Karasala
-*Date: September 16, 2025*
 
 ## Table of Contents
 - [Introduction](#introduction)
